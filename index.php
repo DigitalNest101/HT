@@ -1,5 +1,5 @@
 <?php include('./partials/header.php')  ?>
-<!-- @@include('header.html') -->
+<!-- @@include('./partials/header.php') -->
 
 	<main class="site-content" role="main">
 		<!--
@@ -185,3 +185,4 @@
 	</main>
 
 <?php include('./partials/footer.php') ?>
+<!-- @@include('./partials/footer.php') -->
